@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "875803265053",
+    "firebase_url": "https://sulia-beauty-default-rtdb.firebaseio.com",
+    "project_id": "sulia-beauty",
+    "storage_bucket": "sulia-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875803265053:android:4831f87c334efae40cdef4",
+        "android_client_info": {
+          "package_name": "suliabeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrUAlyje-uX6j7yQLbVMFnY6zyHqltdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
